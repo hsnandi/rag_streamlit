@@ -28,6 +28,9 @@ cd rag_streamlit
 2. Create a virtual environment and activate it:
 
 ```bash
+# Linux/macOS
+python3 -m venv venv
+# Windows
 python -m venv venv
 # Linux/macOS
 source venv/bin/activate
