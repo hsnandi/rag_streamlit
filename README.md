@@ -22,7 +22,7 @@ Users can ask questions related to the catalogue, and the bot retrieves relevant
 
 ```bash
 git clone https://github.com/hsnandi/rag_streamlit
-cd polycab_bot
+cd rag_streamlit
 ```
 
 2. Create a virtual environment and activate it:
